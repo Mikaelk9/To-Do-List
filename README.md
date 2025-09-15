@@ -1,4 +1,4 @@
-# MeuApp
+# To-do List
 
 Uma to-do list (Lista de tarefas) funcional, com criação, edição e exclusão de tarefas. LocalStorage integrado, para salvamento de tarefas antes adicionadas, assim podendo fechar o website, e abrindo posteriormente, que suas tarefas adicionadas estaram salvas, e listadas.
 
